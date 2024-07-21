@@ -1,5 +1,5 @@
 # parallelTestSerenityBDD
-This a project configured to run parallel test using the following tools and framework:
+This a project configured to run parallel tests using the following tools and framework:
 Serenity BDD 4v
 Cucumber 7v
 Junit 5v
