@@ -7,7 +7,7 @@ This a project configured to run parallel tests using the following tools and fr
 🌱 Java (Object-oriented programming)
 🌱 Maven
 
-Beside tthat, you can find maven libraries to run RestAssured API testing projects to automate backend tests: 👋
+Besides that, you can find maven libraries to run Rest Assured API testing projects to automate backend tests: 👋
 ⚡com.jayway.jsonpath 2.6.0v
 ⚡com.fasterxml.jackson.core 2.15.2v
 ⚡io.rest-assured 5.4.0
